@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { useRef, useContext  } from 'react';
 
 import CartModel from './CartModel.jsx';
